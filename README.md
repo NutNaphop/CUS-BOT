@@ -2,6 +2,7 @@
 # CUS-BOT discord
 A discord bot can tell you about COVID-19 statistic daily day built by Node JS , Express.
 This is my first project since around 2020 or 2021. I just re upload it
+
 ![preview](screenshot/preview.jpg)
 
 
